@@ -1,0 +1,25 @@
+*~
+venv
+build.stamp
+proof
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+*Autosaved*.glyphs
+
+out/fontbakery*
+out/badges-*
+fontbakery
+
+# This shouldn't be here but gftools builder leave this here
+sources/.ninja_log
+sources/build.ninja
+sources/instance_ufos/
